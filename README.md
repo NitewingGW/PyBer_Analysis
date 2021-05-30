@@ -23,5 +23,8 @@ See Fig 6 https://github.com/NitewingGW/PyBer_Analysis/blob/main/analysis/Fig6.p
 The profit margin is high in the suburbs for the drivers due to the lower amount of drivers. With an increase in riders it would result in more profit for the drivers thus increasing the motivation and desire for more people to become drivers. Hence increasing company profibility overall.
 See fig 7 https://github.com/NitewingGW/PyBer_Analysis/blob/main/analysis/Fig7.png
 
-
+# Recommendations
+* Increasing marketing in the suburbs focusing on riders (possibly through discounts)
+* increase avdvertising in urban areas to create more business but also consider limiting the number of drivers permitted to work in a given area. (Market is becoming saurated)
+* Consider doing a phased approach to increase riders in rural areas. If this approach is not successful do a cost vs profit analysis for the rural cities. If profit minus advertising cost don't show considerable profit consider phasing out the business in the rural cities. 
 
